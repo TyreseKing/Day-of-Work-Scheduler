@@ -11,7 +11,7 @@
 ## Description
 The functionailty of this application is to help you plan out your normal 9-5 work day
 ## Installation
-
+Html Css
 ## Usage
 when you open the planner. select the hour you'll like a task to be completed and hit the save button. the task will remain on the upon reload
 ## Contribution 
